@@ -19,3 +19,4 @@ let Imageindex = 0 ;
     }
     MainElement.src=Images[Imageindex];
  }
+ setInterval(nextimage,2000);
